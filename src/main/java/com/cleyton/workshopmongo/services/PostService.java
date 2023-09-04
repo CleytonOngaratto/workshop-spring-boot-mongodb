@@ -1,7 +1,5 @@
 package com.cleyton.workshopmongo.services;
 
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
-
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
